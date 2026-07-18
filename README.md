@@ -19,14 +19,12 @@ Each user’s items are stored securely in the cloud and remain available after 
 
 ## Live Demo
 
-[Open the deployed application](https://main.d17ok2d6hqgyy8.amplifyapp.com$0)
+[Open the deployed application](https://main.d17ok2d6hqgyy8.amplifyapp.com)
 
 ## Screenshots
 
-```markdown
 ![Login page](docs/login.png)
 ![Bucket list](docs/bucket-list.png)
-```
 
 ## Technologies
 

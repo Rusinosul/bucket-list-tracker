@@ -1,8 +1,7 @@
 import { Authenticator } from "@aws-amplify/ui-react";
-import "@aws-amplify/ui-react/styles.css";
+import './App.css'
 import binIcon from "./assets/bin2.png"
 import { useState } from 'react';
-import './App.css'
 
 
 
